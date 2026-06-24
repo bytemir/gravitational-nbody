@@ -253,9 +253,6 @@ gravitational-nbody_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 gravitational-nbody_SOURCE_DIR:STATIC=/home/emir/Desktop/gravitational-nbody
 
-//The directory containing a CMake configuration file for raylib.
-raylib_DIR:PATH=/home/emir/.local/share/vcpkg/installed/x64-linux/share/raylib
-
 
 ########################
 # INTERNAL cache entries

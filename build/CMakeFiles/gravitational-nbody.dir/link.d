@@ -4,6 +4,11 @@ gravitational-nbody: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtbeginS.o \
   CMakeFiles/gravitational-nbody.dir/src/main.c.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libraylib.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/libgcc.a \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libgcc_s_asneeded.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libgcc_s_asneeded.so \
@@ -34,7 +39,6 @@ gravitational-nbody: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/libgcc.a \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtendS.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/crtn.o \
-  /usr/lib/libm.so.6 \
   /usr/lib/libX11.so.6 \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libgcc_s.so.1 \
   /usr/lib/ld-linux-x86-64.so.2 \
@@ -51,6 +55,16 @@ gravitational-nbody: \
 CMakeFiles/gravitational-nbody.dir/src/main.c.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libraylib.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/libm.so:
+
+/usr/lib/libm.so.6:
+
+/usr/lib/libmvec.so.1:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/libgcc.a:
 
@@ -111,8 +125,6 @@ CMakeFiles/gravitational-nbody.dir/src/main.c.o:
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/crtendS.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/../../../../lib/crtn.o:
-
-/usr/lib/libm.so.6:
 
 /usr/lib/libX11.so.6:
 
