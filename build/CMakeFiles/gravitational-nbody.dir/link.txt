@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/gravitational-nbody.dir/link.d "CMakeFiles/gravitational-nbody.dir/src/main.c.o" -o gravitational-nbody  -lraylib

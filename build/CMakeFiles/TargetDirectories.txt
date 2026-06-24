@@ -1,0 +1,3 @@
+/home/emir/Desktop/gravitational-nbody/build/CMakeFiles/gravitational-nbody.dir
+/home/emir/Desktop/gravitational-nbody/build/CMakeFiles/edit_cache.dir
+/home/emir/Desktop/gravitational-nbody/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(gravitational-nbody C) 
+set(CMAKE_C_STANDARD 11)
+find_package(SDL2 CONFIG REQUIRED)
+file(GLOB SOURCES "src/*.c")
+add_executable(gravitational-nbody ${SOURCES})
+target_link_libraries(gravitational-nbody PRIVATE raylib)
