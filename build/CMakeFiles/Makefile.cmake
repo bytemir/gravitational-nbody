@@ -7,15 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2Config.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2ConfigVersion.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2mainTargets-debug.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2mainTargets-release.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2mainTargets.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2staticTargets-debug.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2staticTargets-release.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/SDL2staticTargets.cmake"
-  "/home/emir/.local/share/vcpkg/installed/x64-linux/share/sdl2/sdlfind.cmake"
   "/home/emir/.local/share/vcpkg/scripts/buildsystems/vcpkg.cmake"
   "/home/emir/Desktop/gravitational-nbody/CMakeLists.txt"
   "CMakeFiles/4.3.3/CMakeCCompiler.cmake"
@@ -31,7 +22,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
   "/usr/share/cmake/Modules/Compiler/GNU-C.cmake"
   "/usr/share/cmake/Modules/Compiler/GNU.cmake"
-  "/usr/share/cmake/Modules/FeatureSummary.cmake"
   "/usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake"
   "/usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
   "/usr/share/cmake/Modules/Linker/GNU-C.cmake"
