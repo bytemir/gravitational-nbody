@@ -14,10 +14,13 @@
 #define TEXT_SIZE 10
 
 // Simulator Settings
-#define PARTICLE_MASS 1000.0f
+#define PARTICLE_MASS 2500.0f
 #define GRAVITATIONAL_CONSTANT 1.5f
 #define SOFTENING_FACTOR 100.0f
 #define PARTICLES_PER_CLICK 125
+#define SPREAD_X 18
+#define SPREAD_Y 5
+
 typedef struct {
     Vector2 Position;
     Vector2 Velocity;
@@ -99,8 +102,8 @@ int main(void) {
                     if (temp == NULL) { free(particles); return 1; }
                     particles = temp;
                 }
-                float offsetX = GetRandomValue(-10, 10);
-                float offsetY = GetRandomValue(-10, 10);
+                float offsetX = GetRandomValue(-SPREAD_X, SPREAD_X);
+                float offsetY = GetRandomValue(-SPREAD_Y, SPREAD_Y);
 
                 particles[particleCount] = (Particle) {
                     .Position= (Vector2) {MousePosition.x + offsetX, MousePosition.y + offsetY},
